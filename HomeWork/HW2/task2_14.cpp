@@ -1,12 +1,16 @@
 #include <stdio.h>
 #include <math.h>
+#include <stdbool.h>
 
+bool iszero(double x) {
+    return fabs(x) < 1e-9;
+}
 
 void solve_quadratic(double a, double b, double c) {
     
-    if (a == 0) {
-        if (b == 0) {
-            if (c == 0) {
+    if (iszero(a)) {
+        if (iszero(b)) {
+            if (iszero(c)) {
                 printf("Infinite solutions.\n");
             } else {
                 printf("No solution.\n");
@@ -20,9 +24,9 @@ void solve_quadratic(double a, double b, double c) {
 
     double D = b * b - 4 * a * c;
 
-    if (D < 0) {
+    if (D < -1e-9) {
         printf("No real solutions (D < 0).\n");
-    } else if (D == 0) {
+    } else if (iszero(D)) {
         double x = -b / (2 * a);
         printf("One root: x = %g\n", x);
     } else {
