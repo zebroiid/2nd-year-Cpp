@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1 class="title">Product Catalog</h1>
+    <ul id="items">
+      <td><a href="https://example.com">Laptop</a></td>
+      <td><a href="https://example.com">Keyboard</a></td>
+      <td><something wrong happend here ...>
+    </ul>
+  </body>
+</html>
