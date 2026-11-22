@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Project" targetName="Rectangle_test" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e58b620-5e39-4561-9f4e-2f47fd9af266" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HomeWork/HW19/task19_10e-g.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="6.79785674685262E-13" />
+      <entry key="MS500" value="0.004057269521769534" />
+      <entry key="S2" value="0.4650066705373372" />
+      <entry key="S5" value="1.8355792998582636" />
+      <entry key="S10" value="3.220867855329459" />
+      <entry key="S30" value="4.844411163989241" />
+      <entry key="S60" value="5.386991501063494" />
+      <entry key="M2" value="5.68431209175233" />
+      <entry key="M5" value="6.151895390113062" />
+      <entry key="M10" value="10.616114620488656" />
+      <entry key="M15" value="18.833266575997726" />
+      <entry key="M30" value="43.076165139069964" />
+      <entry key="H1" value="71.53056405053046" />
+      <entry key="H2" value="95.40284044589123" />
+      <entry key="H4" value="111.5984052765356" />
+      <entry key="D1" value="128.2461500953488" />
+      <entry key="W1" value="131.45410840706316" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000018697597" />
+      <entry key="S5" value="1.0003226371080942" />
+      <entry key="S10" value="1.0179621019954286" />
+      <entry key="S30" value="1.2618900826507937" />
+      <entry key="S60" value="1.5117519737634564" />
+      <entry key="M2" value="1.7153684182038347" />
+      <entry key="M5" value="1.8746048982037404" />
+      <entry key="M10" value="1.935203132054069" />
+      <entry key="M15" value="1.9563216073224656" />
+      <entry key="M30" value="1.9779169736345028" />
+      <entry key="H1" value="1.9888968468118924" />
+      <entry key="H2" value="1.9944329272564802" />
+      <entry key="H4" value="1.9972125787696822" />
+      <entry key="D1" value="1.999534889310334" />
+      <entry key="W1" value="1.999933542367379" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.001068646193285024" />
+      <entry key="MS500" value="0.2582878930538134" />
+      <entry key="S2" value="1.133164557985136" />
+      <entry key="S5" value="2.646383349839186" />
+      <entry key="S10" value="4.118123986063169" />
+      <entry key="S30" value="6.022432046383774" />
+      <entry key="S60" value="6.8351897656300356" />
+      <entry key="M2" value="7.358968103781984" />
+      <entry key="M5" value="8.00738255185896" />
+      <entry key="M10" value="12.541153101254313" />
+      <entry key="M15" value="20.78260192109746" />
+      <entry key="M30" value="45.050395864202095" />
+      <entry key="H1" value="73.51752106312266" />
+      <entry key="H2" value="97.39626314779309" />
+      <entry key="H4" value="113.59509876781833" />
+      <entry key="D1" value="130.245596021263" />
+      <entry key="W1" value="133.45402917202216" />
+    </decayedShown>
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2026" />
+    <option name="minorVersion" value="3.0.1" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MSuw8E2EnPCyhffUPlGE6tfDUR" />
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.Rectangle_test.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.task18_1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.task18_2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.task18_5j.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.task18_7.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.task19_1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Rectangle.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Rectangle_test.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.test_point.executor&quot;: &quot;Run&quot;,
+    &quot;CTest Application.All Tests.executor&quot;: &quot;Run&quot;,
+    &quot;CidrDebugProfileConversion&quot;: &quot;true&quot;,
+    &quot;CidrDebugProfileConversion262&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cmake.workspace.lastReloadFailed&quot;: &quot;true&quot;,
+    &quot;ctest.advertisement.all.test.configuration.is.created&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;HW19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/markp/Documents/MERK/2nd-year-Cpp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CMakeSettings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\markp\Documents\MERK\2nd-year-Cpp\ClassWork\CW10" />
+      <recent name="C:\Users\markp\Documents\MERK\2nd-year-Cpp\ClassWork\CW9" />
+      <recent name="C:\Users\markp\Documents\MERK\2nd-year-Cpp\ClassWork\CW8" />
+      <recent name="C:\Users\markp\Documents\MERK\2nd-year-Cpp\ClassWork\CW7" />
+      <recent name="C:\Users\markp\Documents\MERK\2nd-year-Cpp\ClassWork\CW5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.task19_10e-g.cpp">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeBoostTestRunConfigurationType" factoryName="Boost Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeDoctestTestRunConfigurationType" factoryName="doctest Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rectangle" type="CMakeRunConfiguration" factoryName="Application" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Rectangle" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="Rectangle_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="CMakeRunConfiguration" factoryName="Application" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" RUN_PATH="$PROJECT_DIR$/HomeWork/HW18/task18_5j.cpp" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task18_7.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2nd-year-Cpp" TARGET_NAME="task18_7.cpp" CONFIG_NAME="task18_7.cpp">
+      <option name="sourceFile" value="C:\Users\markp\Documents\MERK\2nd-year-Cpp\HomeWork\HW18\task18_7.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task19_10e-g.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2nd-year-Cpp" TARGET_NAME="task19_10e-g.cpp" CONFIG_NAME="task19_10e-g.cpp">
+      <option name="sourceFile" value="C:\Users\markp\Documents\MERK\2nd-year-Cpp\HomeWork\HW19\task19_10e-g.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.task18_7.cpp" />
+      <item itemvalue="C/C++ File.task19_10e-g.cpp" />
+      <item itemvalue="CMake Application.Rectangle" />
+      <item itemvalue="CMake Application.Unnamed" />
+    </list>
+  </component>
+  <component name="SelectedDebugProfileService">{
+  &quot;profileIdByStamp&quot;: [
+    {
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;C/C++ File.task19_10e-g.cpp&quot;
+      },
+      &quot;second&quot;: &quot;99ac7503-dc38-49d7-95f1-347a0c49baee&quot;
+    },
+    {
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;CMake Application.Rectangle&quot;,
+        &quot;cmake&quot;: null
+      },
+      &quot;second&quot;: &quot;99ac7503-dc38-49d7-95f1-347a0c49baee&quot;
+    },
+    {
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;CMake Application.Unnamed&quot;,
+        &quot;cmake&quot;: null
+      },
+      &quot;second&quot;: &quot;99ac7503-dc38-49d7-95f1-347a0c49baee&quot;
+    },
+    {
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;C/C++ File.task18_7.cpp&quot;
+      },
+      &quot;second&quot;: &quot;99ac7503-dc38-49d7-95f1-347a0c49baee&quot;
+    }
+  ],
+  &quot;modificationCount&quot;: 19
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e58b620-5e39-4561-9f4e-2f47fd9af266" name="Changes" comment="" />
+      <created>1795356525908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795356525908</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+    <isAutomaticBootstrapAfterUpdate value="false" />
+  </component>
+</project>
